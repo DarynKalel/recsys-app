@@ -1,0 +1,11 @@
+user_id,age,country,country_encoded
+1,42,JP,0
+2,38,JP,0
+3,31,JP,0
+4,20,NL,1
+5,42,US,2
+6,35,US,2
+7,29,US,2
+8,19,US,2
+9,41,NL,1
+10,47,NL,1

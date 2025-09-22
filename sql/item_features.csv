@@ -1,0 +1,16 @@
+item_id,title,genre_Action,genre_Comedy,genre_Drama,genre_Sci-Fi
+1,Movie 1,False,False,False,True
+2,Movie 2,False,False,False,True
+3,Movie 3,False,False,False,True
+4,Movie 4,True,False,False,False
+5,Movie 5,False,False,False,True
+6,Movie 6,False,False,False,True
+7,Movie 7,False,False,False,True
+8,Movie 8,False,True,False,False
+9,Movie 9,False,True,False,False
+10,Movie 10,True,False,False,False
+11,Movie 11,False,True,False,False
+12,Movie 12,False,False,True,False
+13,Movie 13,False,False,True,False
+14,Movie 14,False,False,False,True
+15,Movie 15,False,True,False,False
