@@ -24,7 +24,7 @@
       const userId = document.getElementById("userSelect").value;
 
       try {
-        const response = await fetch(`https://recsys-app.onrender.com/recommend/${userId}`);
+        const response = await fetch(`/recommend/${userId}`);
         const data = await response.json();
 
         const list = document.getElementById("recommendations");
